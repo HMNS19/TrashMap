@@ -78,6 +78,10 @@ Make sure you have the following installed on your machine:
    ```bash
    npm install
 
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
 4. Start the frontend application:
 
    ```bash
